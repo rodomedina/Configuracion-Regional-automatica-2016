@@ -1,0 +1,5 @@
+Deben copiar este ejecutable en la carpeta de inicio de windows, de esta manera el programa iniciará en cada inicio del sistema.
+
+ruta carpeta inicio : C:\ProgramData\Microsoft\Windows\Start Menu\Programs\Startup
+
+Realizado por Medina Rodolfo
